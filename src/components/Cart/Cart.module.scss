@@ -1,0 +1,15 @@
+.Cart {
+    display: flex;
+    border: 1px solid black;
+    flex-direction: column;
+    width: 40%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: 2%;
+}
+.green {
+    background-color: green;
+    width: 60%;
+    margin-top: 5%;
+}

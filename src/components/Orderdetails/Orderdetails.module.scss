@@ -1,0 +1,7 @@
+.Orderdetails {
+    display: grid;
+    grid-template-columns: 2fr repeat(4, 1fr);
+    grid-template-rows: auto;
+    border: 1px solid black;
+    margin: 5%;
+}
